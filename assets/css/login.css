@@ -61,3 +61,10 @@ body
       margin-right: auto;
     }
 }
+.text-dec{
+  text-decoration: none;
+  font-size: xx-large;
+}
+.text-dec:hover{
+  color: white;
+}
